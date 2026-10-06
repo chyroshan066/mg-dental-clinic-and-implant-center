@@ -2,7 +2,7 @@ import { DentistType } from "@/types";
 
 export const DENTISTS: DentistType[] = [
     {
-        imgSrc: "/images/dentists/dentist-1.webp",
+        imgSrc: "/images/dentists/d2.webp",
         name: "Dr Suraj Gupta ",
         // ionIcon: [
         //     {
@@ -18,7 +18,7 @@ export const DENTISTS: DentistType[] = [
         position2: "MDS Prosthodontics (BPKIHS, Dharan)",
     },
     {
-        imgSrc: "/images/dentists/dentist-2.webp",
+        imgSrc: "/images/dentists/d1.webp",
         name: "Dr Samjhana Maharjan ",
         position: "BDS (KU, Nobel Medical College )",
         position2: "MDS Prosthodontics (BPKIHS, Dharan)",
